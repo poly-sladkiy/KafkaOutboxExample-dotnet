@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher.Core", "src\Publisher.Core\Publisher.Core.csproj", "{DF45CE1A-61B7-47E5-9FAA-3FF889A49C26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher.Infrastructure", "Publisher.Infrastructure\Publisher.Infrastructure.csproj", "{684648A5-0B8A-4B90-B5A2-6912B7384467}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher.Infrastructure", "src\Publisher.Infrastructure\Publisher.Infrastructure.csproj", "{684648A5-0B8A-4B90-B5A2-6912B7384467}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher.ConsoleApp", "src\Publisher.ConsoleApp\Publisher.ConsoleApp.csproj", "{EA26C113-94F9-40F1-8271-92F487660827}"
 EndProject
@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.Core", "src\Subs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.Infrastructure", "src\Subscriber.Infrastructure\Subscriber.Infrastructure.csproj", "{CD1903D7-7873-4D0D-9386-64A6B734CE54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.ConsoleApp", "Subscriber.ConsoleApp\Subscriber.ConsoleApp.csproj", "{63644C01-91E6-4734-BE7A-CA2CE3F41C3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber.ConsoleApp", "src\Subscriber.ConsoleApp\Subscriber.ConsoleApp.csproj", "{63644C01-91E6-4734-BE7A-CA2CE3F41C3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
